@@ -1,0 +1,15 @@
+D:\Example\ConsoleApp2\Lab__\bin\Debug\net6.0\Lab__.exe
+D:\Example\ConsoleApp2\Lab__\bin\Debug\net6.0\Lab__.deps.json
+D:\Example\ConsoleApp2\Lab__\bin\Debug\net6.0\Lab__.runtimeconfig.json
+D:\Example\ConsoleApp2\Lab__\bin\Debug\net6.0\Lab__.dll
+D:\Example\ConsoleApp2\Lab__\bin\Debug\net6.0\Lab__.pdb
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.csproj.AssemblyReference.cache
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.AssemblyInfoInputs.cache
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.AssemblyInfo.cs
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.csproj.CoreCompileInputs.cache
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.dll
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\refint\Lab__.dll
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.pdb
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\Lab__.genruntimeconfig.cache
+D:\Example\ConsoleApp2\Lab__\obj\Debug\net6.0\ref\Lab__.dll
